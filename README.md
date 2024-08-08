@@ -16,8 +16,7 @@ A simple Next.js application that allows users to generate random images from a 
 
 ## Screenshots
 
-![Explore Page](![image](https://github.com/user-attachments/assets/d96b505f-8df7-45a5-9e3a-bb928089a91a)
-)
+![Explore Page](![image](333.png)
 ![Generate Page]()
 ![Profile Page]()
 ![Edit Image Page]()
